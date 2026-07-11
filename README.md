@@ -17,14 +17,40 @@
       <p><i>Alright, let's make it official...</i></p>
       <p>I'm <b>Shubham Kumar</b> 👨‍💻</p>
       <br/>
-      <p><b>Full Stack Developer who actually builds scalable products.</b><br/>Not just simple projects — I build end-to-end intelligent systems.</p>
+      <p>🎓 <b>B.Tech CSE | Aspiring Product Engineer</b><br/>I am a Full Stack Developer who doesn't just build side projects—I architect end-to-end, production-ready systems that actually scale.</p>
       <br/>
-      <p><b>Backend & AI:</b> Agentic Pipelines, LangGraph, Python, APIs ⚙️</p>
-      <p><b>Frontend:</b> Next.js, Framer Motion, Clean UI + Real UX 🎯</p>
-      <p><b>Me:</b> Writing clean code and keeping everything production-ready 😩</p>
+      <p>🧠 <b>AI & Agentic Engineering:</b> Specialized in building autonomous AI pipelines, integrating Large Language Models (LLMs), and designing stateful multi-agent workflows using <b>LangGraph & Python</b>.</p>
+      <br/>
+      <p>⚙️ <b>Backend & Systems:</b> Strong fundamentals in Data Structures & Algorithms (DSA) and System Design. Experienced in building robust APIs, secure authentication, and handling complex database schemas.</p>
+      <br/>
+      <p>🎨 <b>Frontend Mastery:</b> Crafting pixel-perfect, highly responsive, and animated user interfaces using <b>Next.js 15, Framer Motion, and Tailwind CSS</b>. I focus heavily on actual User Experience (UX).</p>
+      <br/>
+      <p>🎯 <b>My Philosophy:</b> Code is just a tool. My real goal is solving complex problems and delivering high-impact products.</p>
     </td>
     <td width="40%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <h2>🎯 Core Expertise</h2>
+</div>
+<table align="center">
+  <tr align="center">
+    <td width="33%">
+      <h3>💡 System Design</h3>
+      <p>Designing scalable, low-latency, and highly available architectures for modern web applications.</p>
+    </td>
+    <td width="33%">
+      <h3>🧠 AI Integration</h3>
+      <p>Connecting LLMs (Gemini, GPT) with web apps to create intelligent, autonomous AI Agents.</p>
+    </td>
+    <td width="33%">
+      <h3>⚡ Performance</h3>
+      <p>Optimizing React rendering, database querying, and API response times for blazing-fast apps.</p>
     </td>
   </tr>
 </table>
