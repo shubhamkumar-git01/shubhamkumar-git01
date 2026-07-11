@@ -1,55 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Shubham%20Kumar!&fontSize=50&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=250&section=header&text=Hi,%20I'm%20Shubham%20Kumar!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  
+  <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=AI+Engineer+%26+Enthusiast;Full-Stack+Web+Developer;Building+Intelligent+Applications;Always+Learning+New+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Deep+Learning+Enthusiast;Full-Stack+Web+Developer;Building+Intelligent+AI-Agents;Transforming+Ideas+Into+Scalable+Code" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-### 👨‍💻 About Me
-
-- 🚀 I’m currently working on building **AI-powered Agentic Workflows** and modern web applications.
-- 🧠 Deeply interested in **Generative AI, LangGraph, Next.js, and Cloud Architecture**.
-- 💡 I love turning complex problems into elegant, user-friendly solutions.
-- 📫 How to reach me: **shubhamjai657@gmail.com**
-
-<br/>
-
-### 🛠️ Tech Stack & Tools
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamkumar-git01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shubham's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumar-git01&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-### 🏆 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkumar-git01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <h3>🚀 About Me</h3>
+  <p>I am a passionate <b>AI Engineer and Web Developer</b> dedicated to building next-generation applications. My expertise lies in architecting <b>Agentic Workflows</b> (using LangGraph & LLMs) and developing highly responsive, premium front-end interfaces.</p>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <h3>💻 Arsenal / Tech Stack</h3>
+  <br/>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,python,git,github,vscode,docker,vercel,mongodb,postgres,figma&perline=7&theme=dark" />
+    </a>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  <br/>
+  <a href="https://github.com/shubhamkumar-git01">
+    <img src="https://github-readme-stats.vercel.app/api?username=shubhamkumar-git01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=3B82F6&title_color=ffffff&text_color=9CA3AF" alt="Shubham's GitHub Stats" />
+  </a>
+  <a href="https://github.com/shubhamkumar-git01">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamkumar-git01&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🐍 Contribution Graph</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamkumar-git01/shubhamkumar-git01/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamkumar-git01/shubhamkumar-git01/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhamkumar-git01/shubhamkumar-git01/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📫 Get In Touch</h3>
+  <a href="mailto:shubham.kumar.cse27@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shubham.kumar.cse27%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=100&section=footer" />
 </div>
