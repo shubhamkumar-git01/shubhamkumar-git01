@@ -79,6 +79,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Pushpin" width="25" height="25" /> <b>Currently working on:</b>
   <ul>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="20" height="20" /> AI Investment Research Agent</li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="20" height="20" /> NexHeal – Enterprise Healthcare Platform</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="20" height="20" /> Multi-Agent Systems</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="20" height="20" /> Advanced Next.js & Full-Stack Architectures</li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="20" height="20" /> Data Structures & Algorithms (200+ LeetCode problems solved)</li>
@@ -149,6 +150,32 @@
   <ul>
     <li><b>Challenges:</b> Handling massive prompt context windows and maintaining deterministic output formats.</li>
     <li><b>Roadmap:</b> Implement a Multi-Agent Critic System to automatically debate investment decisions.</li>
+  </ul>
+</details>
+
+<hr bordercolor="#30363d" />
+
+### 🏥 NexHeal – Enterprise Healthcare Platform
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1615584/screenshots/15710288/media/6c7a695e21e330fb39d48259d64380eb.png" alt="NexHeal" width="100%" style="border-radius:10px; border: 1px solid #30363d;"/>
+</p>
+<p><b>Problem:</b> Healthcare systems lack unified platforms for seamless patient-doctor interactions and scalable record management.</p>
+<p><b>Solution:</b> Developing a production-ready, full-stack healthcare web app designed for high availability and secure medical data handling.</p>
+<p><b>Architecture:</b> Next.js & React front-end powered by an enterprise Node.js/Express backend with robust data models.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+</p>
+<p align="center">
+  <a href="https://github.com/shubhamkumar-git01"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Status-Building_Currently-yellow?style=flat" />
+</p>
+<details>
+  <summary><b>✨ Future Roadmap & Challenges</b></summary>
+  <ul>
+    <li><b>Challenges:</b> Structuring complex medical data models securely.</li>
+    <li><b>Roadmap:</b> Implement AI-driven symptom checker and patient analytics.</li>
   </ul>
 </details>
 
